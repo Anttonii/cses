@@ -1,1 +1,6 @@
 /categories
+/output
+
+# Added by cargo
+
+/target
